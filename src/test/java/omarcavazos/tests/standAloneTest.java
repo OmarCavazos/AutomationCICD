@@ -14,6 +14,8 @@ import org.testng.Assert;
 
 public class standAloneTest {
 
+	//New comments added for demo purposes
+
 	public static void main(String[] args) throws InterruptedException {
 		// variables
 		String productName = "ZARA COAT 3";
